@@ -1,4 +1,4 @@
-# GorillaTexturepacks
+# Gorilla Texturepacks
 A mod that lets you load your own texturepakcs into Gorilla Tag!
 
 # Installing packs
