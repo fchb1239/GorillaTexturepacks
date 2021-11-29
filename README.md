@@ -4,7 +4,12 @@ A mod that lets you load your own texturepakcs into Gorilla Tag!
 # Installing packs
 Open up stream and find Gorill Tag, click the gear icon to the far right.
 After clicking it you click (insert word i forgot here) -> "Browse Local Game Files".
+
+(screenshot)
+
 Go into the "BepInEx" -> "Plugins" -> "GorillaTexturepacks" -> "Packs" and drag your pack in there.
+
+(screenshot)
 
 There is already a demo pack, delete it if you want.
 
