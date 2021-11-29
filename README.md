@@ -9,7 +9,7 @@ Go into the "BepInEx" -> "Plugins" -> "GorillaTexturepacks" -> "Packs" and drag 
 There is already a demo pack, delete it if you want.
 
 # Creating a pack
-Start of by downloading the Gorilla Texturepacks Editor <here>.
+Start of by downloading the Gorilla Texturepacks Editor (here).
 
 After launching the program you should see this:
 
