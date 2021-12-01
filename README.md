@@ -1,4 +1,6 @@
 # ![](https://user-images.githubusercontent.com/29258204/144295188-8eb6a6d6-afd9-4ada-b72b-dfddf2633787.png)
+The mod for Gorilla Tag that lets you change textures in the forest map!
+Install it with Monke Mod Manager or get the dll in releases
 
 # Installing packs
 Open up stream and find Gorill Tag, click the gear icon to the far right.
