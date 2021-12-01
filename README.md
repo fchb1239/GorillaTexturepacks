@@ -1,5 +1,4 @@
-# Gorilla Texturepacks
-A mod that lets you load your own texturepakcs into Gorilla Tag!
+# ![](https://user-images.githubusercontent.com/29258204/144294631-820b1d09-523e-4a71-88c1-1837783f850d.png)
 
 # Installing packs
 Open up stream and find Gorill Tag, click the gear icon to the far right.
