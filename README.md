@@ -1,4 +1,4 @@
-# ![](https://user-images.githubusercontent.com/29258204/144294631-820b1d09-523e-4a71-88c1-1837783f850d.png)
+# ![](https://user-images.githubusercontent.com/29258204/144295188-8eb6a6d6-afd9-4ada-b72b-dfddf2633787.png)
 
 # Installing packs
 Open up stream and find Gorill Tag, click the gear icon to the far right.
