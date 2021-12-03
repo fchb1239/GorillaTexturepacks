@@ -2,6 +2,7 @@
 A mod for Gorilla Tag that lets you change textures!
 
 ![](https://user-images.githubusercontent.com/29258204/144645759-517b66d3-edfe-4598-a98b-7656358c1ae3.gif)
+
 <b>REQUIRES COMPUTER INTERFACE</b>
 
 # Installing packs
