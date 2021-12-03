@@ -1,4 +1,4 @@
-# ![](https://user-images.githubusercontent.com/29258204/144295188-8eb6a6d6-afd9-4ada-b72b-dfddf2633787.png)
+# ![](https://user-images.githubusercontent.com/29258204/144619740-180109f6-36e3-4b09-88ae-0f64b375fe4f.png)
 A mod for Gorilla Tag that lets you change textures!
 
 # Installing packs
