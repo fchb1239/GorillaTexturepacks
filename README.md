@@ -3,8 +3,6 @@ A mod for Gorilla Tag that lets you change textures!
 
 ![](https://user-images.githubusercontent.com/29258204/144645759-517b66d3-edfe-4598-a98b-7656358c1ae3.gif)
 
-<b>REQUIRES COMPUTER INTERFACE</b>
-
 # Installing packs
 Open up stream and find Gorill Tag, click the gear icon to the far right.
 After clicking it you click "Manage" -> "Browse Local Game Files".
@@ -39,3 +37,8 @@ Now go to where you launched the program from and go into the folder labelled "E
 the file you just exported.
 
 ![](https://user-images.githubusercontent.com/29258204/144293427-4c3becd3-27ac-4f20-9ead-a16cbc3d580b.png)
+
+#Required Mods
+- BepInject
+- Extenject
+- Computer Interface
