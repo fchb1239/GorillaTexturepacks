@@ -1,5 +1,8 @@
 # ![](https://user-images.githubusercontent.com/29258204/144619740-180109f6-36e3-4b09-88ae-0f64b375fe4f.png)
 A mod for Gorilla Tag that lets you change textures!
+⚠️<b>REQUIRES COMPUTER INTERFACE</b>⚠️
+
+![](https://im3.ezgif.com/tmp/ezgif-3-7beb7bd9a170.gif)
 
 # Installing packs
 Open up stream and find Gorill Tag, click the gear icon to the far right.
