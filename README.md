@@ -40,5 +40,5 @@ the file you just exported.
 
 # Required Mods
 - [BepInject](https://github.com/Auros/Bepinject/releases)
-- Extenject
-- Computer Interface
+- [Extenject](https://github.com/Auros/Bepinject/releases)
+- [Computer Interface](https://github.com/ToniMacaroni/ComputerInterface/releases)
