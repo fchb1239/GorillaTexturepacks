@@ -9,7 +9,7 @@ After clicking it you click "Manage" -> "Browse Local Game Files".
 
 ![](https://user-images.githubusercontent.com/29258204/144292904-c911e8cc-3d2e-4882-9644-1ba2a72e3cc2.png)
 
-Go into BepInEx -> Plugins -> GorillaTexturepacks -> Packs and drag your pack in there.
+Go into BepInEx -> plugins -> GorillaTexturepacks -> Packs and drag your pack in there.
 
 ![](https://user-images.githubusercontent.com/29258204/144292181-72f34b4b-a147-437a-9597-67d95bb48197.png)
 
