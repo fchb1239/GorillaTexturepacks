@@ -5,7 +5,7 @@ A mod for Gorilla Tag that lets you change textures!
 
 # Installing packs
 Open up stream and find Gorill Tag, click the gear icon to the far right.
-After clicking it you click "Manage" -> "Browse Local Game Files".
+After clicking it you click "Manage" -> "Browse local files".
 
 ![](https://user-images.githubusercontent.com/29258204/144292904-c911e8cc-3d2e-4882-9644-1ba2a72e3cc2.png)
 
